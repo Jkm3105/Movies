@@ -230,25 +230,7 @@ User → Movie → Theatre → Screen → Showtime → Seats → Reservation
 
 ---
 
-## 🛒 Cart & Orders (Optional if used)
 
-### Add to Cart
-
-`POST /cart/add`
-
-### Get Cart
-
-`GET /cart`
-
-### Checkout
-
-`POST /order/checkout`
-
-### Payment Success
-
-`GET /order/success`
-
----
 
 ## 🧠 How It Works
 
